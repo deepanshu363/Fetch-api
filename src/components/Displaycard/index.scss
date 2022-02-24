@@ -1,0 +1,17 @@
+#display-card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   
+    .display-content{
+        display: flex;
+        flex-direction: column;
+        align-content: center;
+        justify-content: center;
+        height: 30vh;
+        width: 20vw;
+        margin-top: 20px;
+        background-color: aqua;
+        border-radius: 5px;
+    }
+}
